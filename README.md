@@ -1,12 +1,12 @@
 # RoleMatch
 
-An AI-powered resume and cover letter tailoring tool that personalizes your application materials to any job description — instantly, without re-pasting your resume every time.
+An AI-powered resume and cover letter tailoring tool that personalizes your application materials to any job description instantly and all in one place, without re-pasting your resume every time.
 
 ---
 
 ## The Problem
 
-Submitting the same resume to every job doesn't work. Tailoring manually is slow. RoleMatch does it for you in seconds, using your existing experience — never fabricating anything.
+Submitting the same resume to every job doesn't work. Tailoring manually is slow. RoleMatch does it for you in seconds, using your existing experience and never fabricating anything.
 
 ---
 
